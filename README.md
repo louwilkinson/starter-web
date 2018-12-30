@@ -8,7 +8,11 @@ a simple project to explore git / diff / etc via udemy
 
 ## Purpose
 
+as stated above, just messing with files and git.
+
 ## Deployment
+
+no deployment.
 
 ## How to contribute.
 
