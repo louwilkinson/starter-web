@@ -16,4 +16,8 @@ no deployment.
 
 ## How to contribute.
 
+## copyright
+
+git training lw 2019
+
 
