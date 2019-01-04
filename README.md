@@ -16,6 +16,8 @@ no deployment.
 
 ## How to contribute.
 
+please fork this repo and then do something magical
+
 ## copyright
 
 git training lw 2019
