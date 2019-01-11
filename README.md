@@ -2,6 +2,8 @@
 
 no real web, just file for udemy class
 
+now on the rebase demos...
+
 ## Introduction
 
 a simple project to explore git / diff / etc via udemy
