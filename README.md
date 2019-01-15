@@ -2,9 +2,7 @@
 
 no real web, just file for udemy class
 
-now on the rebase demos...
-
-has been rebased...moving forward
+now on the stash demos...
 
 ## Introduction
 
