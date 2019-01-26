@@ -4,6 +4,8 @@ no real web, just file for udemy class
 
 now on the stash demos...
 
+emergency fix after stash
+
 ## Introduction
 
 a simple project to explore git / diff / etc via udemy
